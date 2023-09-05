@@ -1,0 +1,20 @@
+{
+    "name": "Core",
+    "rootNamespace": "CaptureGem.Core",
+    "references": [
+        "GUID:23361f663e1a64ecdbbdfa71fc8aa238",
+        "GUID:8706cecb5a5514b2e8a48bc061c06663",
+        "GUID:954a83de3a4a84b15860f1871ac432ac",
+        "GUID:83d1af75efb6f4c8e9641cb1dda9f42a",
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
